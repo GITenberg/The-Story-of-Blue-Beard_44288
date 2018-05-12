@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_Perrault
     - http://fr.wikipedia.org/wiki/Charles_Perrault
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44288#The-Story-of-Blue-Beard
 gutenberg_issued: '2013-11-26'
 gutenberg_type: Text
 identifiers:
